@@ -6,6 +6,8 @@ This is a rewrite of the classic well known rotor beam map display which was onl
 
 The flow currently contains 3 beam headings as a demo but you can remove beams as you wish by slightly modifying the flow or adding beams by adding them in the code similar to the other beams.
 
+Touch support is not implemented as we use shortcut keys to turn towards the major antenna directions.
+
 ![](demo.gif)
 
 ## Custom maps
